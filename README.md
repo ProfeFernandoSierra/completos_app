@@ -1,2 +1,2 @@
 # completos_app
-aplicacion para vebder completos a domicilio
+aplicacion para vender completos a domicilio
